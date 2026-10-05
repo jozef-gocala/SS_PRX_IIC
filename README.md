@@ -4,7 +4,7 @@ Toto je moja prvá webová stránka. Vytvoril som ju na predmete
 PRX (Odborná prax), II.C, SPŠ IT Ignáca Gessaya v Tvrdošíne.
 
 ## Obsah
-- (https://github.com/jozef-gocala/SS_PRX_IIC/blob/main/01_tema/o-mne.html) — osobný web (o mne, záujmy, kontakt)
+- (https://jozef-gocala.github.io/SS_PRX_IIC/01/tema/o-mne.html) — osobný web (o mne, záujmy, kontakt)
 
 ## Živá stránka
 (https://jozef-gocala.github.io/SS_PRX_IIC/)
