@@ -7,7 +7,7 @@ PRX (Odborná prax), II.C, SPŠ IT Ignáca Gessaya v Tvrdošíne.
 - https://jozef-gocala.github.io/SS_PRX_IIC/01_tema/o-mne.html — osobný web (o mne, záujmy, kontakt)
 
 ## Živá stránka
-[ziva stranka](https://jozef-gocala.github.io/SS_PRX_IIC/index.html)
+[ziva stranka](https://jozef-gocala.github.io/SS_PRX_IIC/)
 
 ## ostatne pokusy 
 
