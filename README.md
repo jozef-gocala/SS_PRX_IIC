@@ -11,6 +11,8 @@ https://jozef-gocala.github.io/SS_PRX_IIC/
 
 ## ostatne pokusy 
 
+[skusal som obrazky](https://jozef-gocala.github.io/SS_PRX_IIC/04_tema/mini-projekt.html)
+
 ## Čo som sa naučil(a)
 - základnú schému HTML dokumentu (DOCTYPE, html, head, body)
 - význam <title>, charset="UTF-8" a lang="sk"
