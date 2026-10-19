@@ -12,6 +12,7 @@ https://jozef-gocala.github.io/SS_PRX_IIC/
 ## ostatne pokusy 
 
 [skusal som obrazky](https://jozef-gocala.github.io/SS_PRX_IIC/04_tema/mini_projekt.html)
+[nejaky pokus](https://jozef-gocala.github.io/SS_PRX_IIC/04_tema/obrazky_zadanie.html)
 
 ## Čo som sa naučil(a)
 - základnú schému HTML dokumentu (DOCTYPE, html, head, body)
