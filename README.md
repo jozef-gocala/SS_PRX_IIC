@@ -16,6 +16,9 @@ PRX (Odborná prax), II.C, SPŠ IT Ignáca Gessaya v Tvrdošíne.
 
 [nejaky pokus](https://jozef-gocala.github.io/SS_PRX_IIC/04_tema/obrazky_zadanie.html)
 
+
+[Moj projekt CSS o hrach](https://jozef-gocala.github.io/SS_PRX_IIC/08_tema/index.html)
+
 ## Čo som sa naučil(a)
 - základnú schému HTML dokumentu (DOCTYPE, html, head, body)
 - význam <title>, charset="UTF-8" a lang="sk"
